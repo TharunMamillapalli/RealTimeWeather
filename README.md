@@ -23,6 +23,9 @@ A complete **Realtime Weather App** built using **Jetpack Compose** and **Retrof
 
 ---
 
+## Screenshots
+![UI Design](Weather%20app.png)
+
 
 
 
